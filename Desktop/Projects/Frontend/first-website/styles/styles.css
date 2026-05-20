@@ -1,0 +1,18 @@
+h1 {
+  text-align: center;
+}
+
+html {
+  background-color: green;
+  font-size: 20px;
+}
+
+ul {
+  background: rgb(167, 30, 30);
+  padding: 10px;
+  border: 1px solid black;
+}
+
+li {
+  margin-left: 20px;
+}
